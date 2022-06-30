@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Godscentz
 - 👀 I’m interested in cognition, psychology, ML, music, happiness
-- 🌱 I’m currently learning R, data analysis
+- 🌱 I’m currently learning Python, data analysis, 
 - 💞️ I’m looking to collaborate on anything remotely interesting
 - 📫 How to reach me: joshuadavidg7@gmail.com
 
