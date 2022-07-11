@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Godscentz
+- 👋 Hi, I’m @Joshua
 - 👀 I’m interested in cognition, psychology, ML, music, happiness
 - 🌱 I’m currently learning Python, data analysis, 
 - 💞️ I’m looking to collaborate on anything remotely interesting
