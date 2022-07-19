@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Joshua
-- 👀 I’m interested in cognition, psychology, ML, music, happiness
-- 🌱 I’m currently learning Python, data analysis, data science
+- 👋 Hi, I’m @JoshuaDGoetz
+- 👀 I’m interested in cognition, psychology, ML, music, happiness, business
+- 🌱 I’m currently learning Python, data analysis, data science, machine learning
 - 💞️ I’m looking to collaborate on anything remotely interesting
 - 📫 How to reach me: joshuadavidg7@gmail.com
 
